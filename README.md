@@ -6,7 +6,7 @@
  -->
 ![ML Project](https://user-images.githubusercontent.com/84815622/181276756-3cbb5ca6-8d2a-4468-bc21-0fe797028e94.png)
 
-# Project based on Predictive Analytics model to predict the house price💢
+# Project based on Predictive Analytics Model to predict the House Price💢
 
 ## 🎪Abouts📢 
 
