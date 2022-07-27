@@ -1,6 +1,11 @@
 ## 🏡Machine Learning Project ✨ ##
 
-![ML Project](https://user-images.githubusercontent.com/84815622/181273476-f7ee08f5-3fb1-4b25-933f-e75e33ba3988.jpg)
+<!-- ![ML Project](https://user-images.githubusercontent.com/84815622/181273476-f7ee08f5-3fb1-4b25-933f-e75e33ba3988.jpg) -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84815622/181273476-f7ee08f5-3fb1-4b25-933f-e75e33ba3988.jpg" />
+</p>
+
 
 # Project based on Predictive Analytics model to predict the house price💢
 
